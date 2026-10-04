@@ -111,4 +111,16 @@ The main objective of PixelPlate is to provide a simple, contactless, and effici
 
 This project was developed as a major academic project for B.Tech Computer Science and Engineering.
 <img width="1906" height="850" alt="image" src="https://github.com/user-attachments/assets/2ea7183d-5e47-4825-b566-1660ed4b59f1" />
+<img width="1502" height="795" alt="image" src="https://github.com/user-attachments/assets/4f170011-24cb-4697-acc5-3e9d61953d8d" />
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/0d03973e-e3fd-4692-8385-fea5a5163b0a" />
+<img width="1597" height="832" alt="image" src="https://github.com/user-attachments/assets/9c4cc9ec-d83e-49b9-bb1c-bf4d6639e967" />
+<img width="1377" height="742" alt="image" src="https://github.com/user-attachments/assets/eb27ebcf-b270-467f-98fb-89273d3ed7a2" />
+<img width="1277" height="842" alt="image" src="https://github.com/user-attachments/assets/3a49b858-39b4-4c13-85af-13fa205a29f4" />
+<img width="1727" height="720" alt="image" src="https://github.com/user-attachments/assets/9cb2205a-98ed-4a29-bcd8-ec6020179722" />
+<img width="1725" height="831" alt="image" src="https://github.com/user-attachments/assets/443ff065-c97d-4877-989e-75da62495c86" />
+
+
+
+
+
 
