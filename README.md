@@ -110,3 +110,5 @@ The main objective of PixelPlate is to provide a simple, contactless, and effici
 ## Developed As
 
 This project was developed as a major academic project for B.Tech Computer Science and Engineering.
+<img width="1906" height="850" alt="image" src="https://github.com/user-attachments/assets/2ea7183d-5e47-4825-b566-1660ed4b59f1" />
+
