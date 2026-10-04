@@ -45,12 +45,19 @@ Customers can scan a table QR code, browse the menu, add items to their cart, pl
 ## Project Structure
 
 PixelPlate/
+
 ├── backend/
+
 │   ├── frontend/
+
 │   ├── server.py
+
 │   └── requirements.txt
+
 ├── .gitignore
+
 ├── package.json
+
 └── package-lock.json
 
 
